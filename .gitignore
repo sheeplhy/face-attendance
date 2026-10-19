@@ -209,6 +209,13 @@ tempCodeRunnerFile.py
 # PyPI configuration file
 .pypirc
 
+# Face attendance local data and private test assets
+attendance_records.txt
+test.jpg
+*.db
+*.sqlite3
+screenshots/
+
 # Marimo
 marimo/_static/
 marimo/_lsp/
